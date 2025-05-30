@@ -60,9 +60,9 @@ Para usar sua própria chave de API:
    const API_URL = "https://v6.exchangerate-api.com/v6/SUA_CHAVE_AQUI/latest/";
    ```
 
-## 📸 Screenshots
+## 📸 Imagem do Projeto
 
-![Conversor de Moedas](images/conversor-screenshot.png)
+![Conversor de Moedas](./images/image.png)
 *Interface do Conversor de Moedas mostrando a conversão de 1000 BRL para USD*
 
 ## 🔮 Melhorias Futuras

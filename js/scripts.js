@@ -8,7 +8,7 @@ let result = document.querySelector(".result");
 let error = document.querySelector(".error");
 
 const API_URL =
-  "https://v6.exchangerate-api.com/v6/f7f2a448d9af79ce145ec075/latest/";
+  "https://api.exchangerate-api.com/v4/latest/";
 
 async function convertMoney() {
 
@@ -48,4 +48,5 @@ async function convertMoney() {
 
 form.addEventListener("submit", function (e) {
   e.preventDefault();
+  convertMoney();
 });

@@ -62,7 +62,8 @@ Para usar sua própria chave de API:
 
 ## 📸 Screenshots
 
-*Adicione screenshots da sua aplicação aqui*
+![Conversor de Moedas](images/conversor-screenshot.png)
+*Interface do Conversor de Moedas mostrando a conversão de 1000 BRL para USD*
 
 ## 🔮 Melhorias Futuras
 
